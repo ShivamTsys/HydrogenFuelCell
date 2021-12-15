@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../hydrogen_fuel_cell.jpg</file>
+  </qresource>
+</RCC>
